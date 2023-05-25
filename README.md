@@ -5,8 +5,8 @@
 [記事]()のコード管理
 
 ## 実装例
-[Sentinel-2  NoteBook](./src/analysis_ndvi_sentinel-2.ipynb)
-[Maxar  NoteBook](./src/analysis_ndvi_maxar_wv.ipynb)
+- [Sentinel-2  NoteBook](./src/analysis_ndvi_sentinel-2.ipynb)
+- [Maxar  NoteBook](./src/analysis_ndvi_maxar_wv.ipynb)
 
 
 
