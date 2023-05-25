@@ -1,0 +1,3 @@
+[submodule "article_32245_gdal"]
+	path = article_32245_gdal
+	url = https://github.com/sorabatake/article_32245_gdal.git
